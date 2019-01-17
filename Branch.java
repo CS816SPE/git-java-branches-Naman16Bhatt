@@ -11,7 +11,7 @@ class Branch{
       int  a=5, b=6;
         System.out.println("Sum:" + (a + b));
         System.out.println("subtr:" + (a + b));
-        
+       System.out.println("Multi:"+(a*b)); 
     }
   
 }
