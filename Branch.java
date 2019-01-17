@@ -10,6 +10,7 @@ class Branch{
         //   int i = 0;
       int  a=5, b=6;
         System.out.println("Sum:" + (a + b));
+        System.out.println("subtr:" + (a + b));
         
     }
   
